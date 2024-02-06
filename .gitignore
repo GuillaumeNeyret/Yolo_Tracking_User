@@ -1,2 +1,4 @@
 .idea
 venv/
+yolo-Weights/
+__pycache__/
